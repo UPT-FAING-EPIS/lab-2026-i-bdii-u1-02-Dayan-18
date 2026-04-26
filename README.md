@@ -203,7 +203,9 @@ docker-compose up -d
 ![image](https://github.com/UPT-FAING-EPIS/SI783_BDII/assets/10199939/be43e388-7c3b-4284-abed-e0efc83d4e5b)
 
 
+
 ---
 ## Actividades Encargadas
 1. Escribir el código necesrio para completar los controladores para las clases Cliente y ClientesDocumento.
 
+.
