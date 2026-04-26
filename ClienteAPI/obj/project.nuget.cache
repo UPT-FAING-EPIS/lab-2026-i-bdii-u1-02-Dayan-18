@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RK6qIZsd4EQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\lab-2026-i-bdii-u1-02-Dayan-18\\lab-2026-i-bdii-u1-02-Dayan-18\\ClienteAPI\\ClienteAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
